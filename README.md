@@ -31,7 +31,7 @@ int main(){
 	}
 	
 	cout << "-------------------------------------\n";
-	cout << "Matriks sebelum di transponse:\n";
+	cout << "Matriks sebelum ditukar atau transponse:\n";
 	cout << "-------------------------------------\n";
 	// for looping output nilai datanya menjadi matriks sebelum di transpose
 	for (int i=0; i<baris; i++){
