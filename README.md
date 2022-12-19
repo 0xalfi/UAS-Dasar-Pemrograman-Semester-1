@@ -12,11 +12,13 @@
 using namespace std;
 
 int main(){
+	
 	//deklarasi variabel untuk input banyaknya data
 	int data_1, data_2;
 	cout << "masukkan banyaknya baris data ke-1: "; cin >> data_1;
 	cout << "masukkan banyaknya kolom data ke-2: "; cin >> data_2;
 	cout << "-------------------------------------\n";
+	
 	// deklarasi variabel untuk input baris, kolom, dan menampung data_1 & data_2
 	int arr[data_1][data_2], tukar[data_1][data_2], baris, kolom;
 	cout << "masukkan banyaknya baris: "; cin >> baris;
@@ -33,6 +35,7 @@ int main(){
 	cout << "-------------------------------------\n";
 	cout << "Matriks sebelum ditukar atau transponse:\n";
 	cout << "-------------------------------------\n";
+	
 	// for looping output nilai datanya menjadi matriks sebelum di transpose
 	for (int i=0; i<baris; i++){
 		for (int j=0; j<kolom; j++){
