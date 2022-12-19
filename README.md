@@ -6,6 +6,8 @@
 
 ## Deskripsi Umum No. 1
 
+Pada Ujian Akhir Semester Dasar Pemrograman No. 1, diberikan soal untuk membuat sebuah program di C++ Programming yaitu membuat Matriks yang menukar setiap baris menjadi kolom dan setiap kolom menjadi baris. Pertama-tama, membuat variabel data_1 dan data_2 untuk memasukkan banyaknya data pada array dan membuat variabel baris dan kolom untuk menentukan baris dan kolom serta membuat variabel tukar yang akan digunakan untuk menukar baris dan kolomnya. Semua variabel di atas akan diinputkan oleh user. Setelah itu, membuat program for looping untuk menginputkan nilai data dan mengoutputnya. Kemudian melakukan program for looping untuk menyimpan variabel tukar di variabel arr untuk melakukan program tukar baris dan kolom. Setelah melakukan program tukar, terakhir outputkan variabel tukar yang telah diprogram untuk menukar baris dan kolomnya.
+
 ## Source Code No. 1
 ```
 #include <iostream>
