@@ -114,7 +114,18 @@ int main(){
 	}
 	
 	cout << "-------------------------------------\n";
-	cout << "Array yang habis dibagi 3, 5, dan 7 :\n";
+	cout << "   Matriks array yang belum dibagi   \n";
+	cout << "-------------------------------------\n";
+	
+	for (int i=0; i<baris; i++){
+		for (int j=0; j<kolom; j++){
+			cout << arr[i][j] << " ";
+		}
+		cout << endl;
+	}
+	
+	cout << "-------------------------------------\n";
+	cout << "Array yang habis dibagi 3, 5, atau 7 :\n";
 	cout << "-------------------------------------\n";
 	
 	// for looping output nilai datanya yang habis dibagi 3, 5, dan 7
@@ -125,8 +136,10 @@ int main(){
 			}
 		}
 	}
+
 }
 ```
 
 ## Output No. 2
 
+![gambar](https://user-images.githubusercontent.com/70999423/208471293-ced63560-75a1-42b3-8e0b-af7dcd379ded.png)
