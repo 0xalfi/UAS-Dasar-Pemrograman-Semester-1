@@ -6,7 +6,7 @@
 
 ## Deskripsi Umum No. 1
 
-Pada Ujian Akhir Semester Dasar Pemrograman No. 1, diberikan soal untuk membuat sebuah program di C++ Programming yaitu membuat Matriks yang telah ditukar setiap baris menjadi kolom dan setiap kolom menjadi baris dari Matriks yang belum ditukar. Pertama-tama, membuat variabel data_1 dan data_2 untuk memasukkan banyaknya data atau menampung data pada variabel arr dan membuat variabel baris dan kolom untuk menentukan baris dan kolom serta membuat variabel tukar yang akan digunakan untuk menukar baris dan kolomnya. Semua variabel di atas akan diinputkan oleh user. Setelah itu, membuat program for looping untuk menginputkan nilai data dan mengoutputnya. Kemudian melakukan program for looping kembali untuk melakukan program tukar baris dan kolom dan hasilnya disimpan pada variabel tukar. Setelah melakukan program tukar, terakhir menggunakan program for loop kembali untuk mengoutputkan semua nilai pada variabel data yang dimana baris dan kolomnya telah ditukar pada program for loop sebelumnya.
+<p>Pada Ujian Akhir Semester Dasar Pemrograman No. 1, diberikan soal untuk membuat sebuah program di C++ Programming yaitu membuat Matriks yang telah ditukar setiap baris menjadi kolom dan setiap kolom menjadi baris dari Matriks yang belum ditukar. Pertama-tama, membuat variabel data_1 dan data_2 untuk memasukkan banyaknya data atau menampung data pada variabel arr dan membuat variabel baris dan kolom untuk menentukan baris dan kolom serta membuat variabel tukar yang akan digunakan untuk menukar baris dan kolomnya. Semua variabel di atas akan diinputkan oleh user. Setelah itu, membuat program for looping untuk menginputkan nilai data dan mengoutputnya. Kemudian melakukan program for looping kembali untuk melakukan program tukar baris dan kolom dan hasilnya disimpan pada variabel tukar. Setelah melakukan program tukar, terakhir menggunakan program for loop kembali untuk mengoutputkan semua nilai pada variabel data yang dimana baris dan kolomnya telah ditukar pada program for loop sebelumnya.</p>
 
 ## Source Code No. 1
 ```
@@ -79,6 +79,8 @@ int main(){
 
 
 ## Deskripsi Umum No. 2
+
+<p>Pada Ujian Akhir Semester Dasar Pemrograman No. 2, diberikan soal untuk membuat sebuah program di C++ Programming yaitu membuat angka yang habis dibagi oleh 3, 5, atau 7. Pertama-tama, membuat variabel data_1 dan data_2 untuk memasukkan banyaknya data atau menampung data pada variabel arr dan membuat variabel baris dan kolom untuk menentukan baris dan kolom. Semua variabel di atas akan diinputkan oleh user. Setelah itu, membuat program for looping untuk menginputkan nilai data dan mengoutputnya. Kemudian melakukan program for looping kembali untuk melihat hasil matriks yang belum dibagi oleh 3,5, atau 7. Setelah itu terakhir menggunakan program for loop kembali (tidak matriks) untuk mengoutputkan semua nilai pada variabel arr yang dimana semua angka yang habis dibagi oleh 3, 5, atau 7 akan dioutput pada program.</p>
 
 ## Source Code No. 2
 ```
